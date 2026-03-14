@@ -79,13 +79,19 @@ Generate visual charts
 Save reports and charts
 
 📊 Sample Output
+
 📊 Sales Statistics
+
 Total Sales: 2460
+
 Average Order: 410
+
 Total Orders: 6
+
 Unique Customers: 5
 
 📦 Sales by Category
+
 Electronics    1750
 Home            300
 Sports          200
@@ -95,6 +101,7 @@ Books            90
 A bar chart is also generated and saved in:
 
 data/reports/category_sales.png
+
 📈 Visualization
 
 The project generates a bar chart showing sales by category.
