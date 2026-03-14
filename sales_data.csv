@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,category,quantity,total_amount,order_date
+1001,C101,P201,Electronics,1,800,2024-01-05
+1002,C102,P202,Clothing,2,120,2024-01-06
+1003,C103,P203,Books,3,90,2024-02-02
+1004,C104,P204,Electronics,1,950,2024-03-10
+1005,C101,P205,Sports,2,200,2024-03-12
+1006,C105,P206,Home,1,300,2024-04-01
